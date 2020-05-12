@@ -1,6 +1,3 @@
-
-alert("Welcome");
-
 function convertToPercent(){
 
   var x = document.querySelectorAll("input");
