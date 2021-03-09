@@ -1,9 +1,14 @@
+html  {
+  scroll-behavior: smooth;
+}
+
 .calculator-section {
   background-color: #ccccff;
   padding: 5px;
   padding-bottom: 150px;
   text-align: center;
 }
+
 h3, input {
   align-content: center;
   margin: 10px;
